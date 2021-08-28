@@ -44,15 +44,18 @@
             $pagina = $_GET["pagina"];
             include($pagina);
             } else{
-                include("pages/home.php");
+              include("pages/home.php");
+              
 
             }
 
 
 
       ?>
+      
 
 </main>
+
 
 </body>
 </html>

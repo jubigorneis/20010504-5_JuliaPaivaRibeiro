@@ -58,7 +58,7 @@
 
                 <h2 class="mt-3"><?php echo $arr['5']['name'] ?></h2>
                 <p><?php echo $arr['5']['description'] ?></p>
-                <p><a class="btn btn-outline-danger" href="./pages/product5.php">Conferir</a>
+                <p><a class="btn btn-outline-danger" href="index.php?pagina=./pages/product5.php">Conferir</a>
             </div>
 
             <!--  -->
@@ -73,4 +73,6 @@
     </div> 
 
   </div>
+
+
 </main>
